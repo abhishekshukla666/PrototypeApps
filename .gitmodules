@@ -1,4 +1,6 @@
-
+[submodule "MaterialDesign"]
+	path = DbConnector
+	url = https://github.com/inabhishekshukla/PrototypeApps/MaterialDesign
 [submodule "PrototypeApps"]
 	path = PrototypeApps
 	url = https://github.com/inabhishekshukla/PrototypeApps
