@@ -1,6 +1,4 @@
-[submodule "master"]
-	path = master
-	url = https://github.com/inabhishekshukla/PrototypeApps
+
 [submodule "PrototypeApps"]
 	path = PrototypeApps
 	url = https://github.com/inabhishekshukla/PrototypeApps
