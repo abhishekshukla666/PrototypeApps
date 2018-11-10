@@ -11,19 +11,6 @@ import UIKit
 class ViewController: UIViewController {
     
     var isDownloading: Bool = false
-    //    {
-    //        didSet {
-    //            if isDownloading {
-    //                // Pause downloading
-    //                downloadTask?.suspend()
-    //                isDownloading = false
-    //            } else {
-    //                // Resume Downloading
-    //                isDownloading = true
-    //                downloadTask?.resume()
-    //            }
-    //        }
-    //    }
     
     let urlString = "https://firebasestorage.googleapis.com/v0/b/firestorechat-e64ac.appspot.com/o/intermediate_training_rec.mp4?alt=media&token=e20261d0-7219-49d2-b32d-367e1606500c"
     
