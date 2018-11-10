@@ -1,6 +1,0 @@
-[submodule "MaterialDesign"]
-	path = master
-	url = https://github.com/inabhishekshukla/PrototypeApps/MaterialDesign
-[submodule "master"]
-	path = master
-	url = https://github.com/inabhishekshukla/PrototypeApps
